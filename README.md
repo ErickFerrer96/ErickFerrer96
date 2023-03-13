@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**ErickFerrer96/ErickFerrer96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Python RESTful APIs projects but i can code in some others techs like COBOL.
+- 🌱 I’m currently learning AWS, AI and Go.
+- 💬 Ask me about anything, i would love to help if i can!
+- 📫 How to reach me: erick.ferrer1996@gmail.com
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I love dogs, travel, videogames and reading (specially horror books).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and tools i know 
+#### 
+- Javascript
+- Python
+- Cobol
+- Django
+- Flask
+- Nodejs
+- React
+- MongoDB
+- MySQL
+
+
+#### Cloud ☁️
+- IBM Cloud
+
+
+
