@@ -51,10 +51,10 @@ Backend Engineer with 5+ years of experience building microservices, automating 
 
 ## Certifications
 
-- [AWS Certified Cloud Practitioner]([https://www.credly.com/users/erick-ferrer96](https://www.credly.com/badges/2b1675e5-803b-401b-8225-0eda8e3bf750/public_url))
-- [Google IT Automation with Python]([https://www.credly.com/users/erick-ferrer96](https://www.credly.com/badges/bddf55d7-c262-46bf-8748-acdd4bbb2022/public_url))
-- [IBM Certified Advocate — Cloud v1]([https://www.credly.com/users/erick-ferrer96](https://www.credly.com/badges/966a7e59-b3c7-46a2-9b90-d719e460a661/public_url))
-- [Data Science Professional Certificate](https://www.credly.com/badges/aa918e74-791a-44a0-8db5-1fc5bc6769e1/public_url))
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/2b1675e5-803b-401b-8225-0eda8e3bf750/public_url)
+- [Google IT Automation with Python](https://www.credly.com/badges/bddf55d7-c262-46bf-8748-acdd4bbb2022/public_url)
+- [IBM Certified Advocate — Cloud v1](https://www.credly.com/badges/966a7e59-b3c7-46a2-9b90-d719e460a661/public_url)
+- [Data Science Professional Certificate](https://www.credly.com/badges/aa918e74-791a-44a0-8db5-1fc5bc6769e1/public_url)
 
 ---
 
